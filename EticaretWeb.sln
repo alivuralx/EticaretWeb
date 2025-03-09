@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EticaretWebUI", "EticaretWebUI\EticaretWebUI.csproj", "{FB406E20-7A12-45BE-9FA3-528A9F688045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.Core", "Eticaret.Core\Eticaret.Core.csproj", "{B3713494-E813-422D-A3DB-4FB6E9467C41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.Data", "Eticaret.Data\Eticaret.Data.csproj", "{D6C3E143-6AA4-4878-994C-6D66F5415FD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.Service", "Eticaret.Service\Eticaret.Service.csproj", "{8AC2C84B-715E-4872-8EFF-0BBF018ABB1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB406E20-7A12-45BE-9FA3-528A9F688045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB406E20-7A12-45BE-9FA3-528A9F688045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB406E20-7A12-45BE-9FA3-528A9F688045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB406E20-7A12-45BE-9FA3-528A9F688045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3713494-E813-422D-A3DB-4FB6E9467C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3713494-E813-422D-A3DB-4FB6E9467C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3713494-E813-422D-A3DB-4FB6E9467C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3713494-E813-422D-A3DB-4FB6E9467C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C3E143-6AA4-4878-994C-6D66F5415FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C3E143-6AA4-4878-994C-6D66F5415FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C3E143-6AA4-4878-994C-6D66F5415FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C3E143-6AA4-4878-994C-6D66F5415FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AC2C84B-715E-4872-8EFF-0BBF018ABB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC2C84B-715E-4872-8EFF-0BBF018ABB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC2C84B-715E-4872-8EFF-0BBF018ABB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC2C84B-715E-4872-8EFF-0BBF018ABB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
